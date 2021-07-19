@@ -49,3 +49,11 @@
   background-color: #b6ccfe;
   text-align: center;
 }
+
+nav ul {
+  list-style-type: none;
+}
+
+.list {
+  display: inline-block;
+}
