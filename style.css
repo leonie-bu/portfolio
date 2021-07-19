@@ -48,6 +48,7 @@
   grid-column-end: 6;
   background-color: #b6ccfe;
   text-align: center;
+  list-style-type: none;
 }
 
 nav ul {
@@ -56,4 +57,9 @@ nav ul {
 
 .list {
   display: inline-block;
+  margin: 0px 30px 0px 30px;
+}
+
+.listaboutme {
+  list-style-type: none;
 }
